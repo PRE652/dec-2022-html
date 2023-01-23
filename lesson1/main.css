@@ -1,0 +1,30 @@
+img {
+    width: 300px;
+    display: block;
+    border: 1px solid black;
+}
+
+p {
+    text-align: justify;
+    background: red;
+    border: 10px solid black;
+    padding: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+html,body{
+    scroll-behavior: smooth;
+}
+div {
+    width: 600px;
+}
+
+
+
+
+
+h1{
+    font-size: 25px;
+}
+
